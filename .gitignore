@@ -1,2 +1,7 @@
 # parquet files
 hw1/data/*.parquet
+.vscode
+
+
+# hw2
+hw2/*
