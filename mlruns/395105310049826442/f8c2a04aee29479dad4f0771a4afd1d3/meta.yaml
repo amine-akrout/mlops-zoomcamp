@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/395105310049826442/f8c2a04aee29479dad4f0771a4afd1d3/artifacts
+end_time: 1684331386416
+entry_point_name: ''
+experiment_id: '395105310049826442'
+lifecycle_stage: active
+run_id: f8c2a04aee29479dad4f0771a4afd1d3
+run_name: dazzling-elk-342
+run_uuid: f8c2a04aee29479dad4f0771a4afd1d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684331379413
+status: 3
+tags: []
+user_id: Amine

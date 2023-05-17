@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/395105310049826442/a890d51175e545efbe3d8d7dd56011a0/artifacts
+end_time: 1684331636329
+entry_point_name: ''
+experiment_id: '395105310049826442'
+lifecycle_stage: active
+run_id: a890d51175e545efbe3d8d7dd56011a0
+run_name: debonair-skunk-116
+run_uuid: a890d51175e545efbe3d8d7dd56011a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684331626388
+status: 3
+tags: []
+user_id: Amine

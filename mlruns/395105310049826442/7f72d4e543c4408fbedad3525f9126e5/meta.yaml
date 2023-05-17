@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/395105310049826442/7f72d4e543c4408fbedad3525f9126e5/artifacts
+end_time: 1684331401139
+entry_point_name: ''
+experiment_id: '395105310049826442'
+lifecycle_stage: active
+run_id: 7f72d4e543c4408fbedad3525f9126e5
+run_name: thoughtful-asp-159
+run_uuid: 7f72d4e543c4408fbedad3525f9126e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684331394746
+status: 3
+tags: []
+user_id: Amine

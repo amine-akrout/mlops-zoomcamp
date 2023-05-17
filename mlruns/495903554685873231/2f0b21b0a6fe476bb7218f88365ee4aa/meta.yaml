@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/495903554685873231/2f0b21b0a6fe476bb7218f88365ee4aa/artifacts
+end_time: 1684332861117
+entry_point_name: ''
+experiment_id: '495903554685873231'
+lifecycle_stage: active
+run_id: 2f0b21b0a6fe476bb7218f88365ee4aa
+run_name: worried-bee-321
+run_uuid: 2f0b21b0a6fe476bb7218f88365ee4aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684332861057
+status: 4
+tags: []
+user_id: Amine

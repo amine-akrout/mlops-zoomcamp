@@ -4,4 +4,4 @@ hw1/data/*.parquet
 
 
 # hw2
-hw2/*
+hw2/data/*.parquet

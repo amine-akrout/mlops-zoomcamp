@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/395105310049826442/9b4759bc0c71412abea56b00234a5269/artifacts
+end_time: 1684331643200
+entry_point_name: ''
+experiment_id: '395105310049826442'
+lifecycle_stage: active
+run_id: 9b4759bc0c71412abea56b00234a5269
+run_name: orderly-shark-243
+run_uuid: 9b4759bc0c71412abea56b00234a5269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684331636356
+status: 3
+tags: []
+user_id: Amine

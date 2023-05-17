@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/395105310049826442/444b5f71eaa74720a4a0124590f5bdcb/artifacts
+end_time: 1684331424161
+entry_point_name: ''
+experiment_id: '395105310049826442'
+lifecycle_stage: active
+run_id: 444b5f71eaa74720a4a0124590f5bdcb
+run_name: melodic-cod-859
+run_uuid: 444b5f71eaa74720a4a0124590f5bdcb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684331416222
+status: 3
+tags: []
+user_id: Amine

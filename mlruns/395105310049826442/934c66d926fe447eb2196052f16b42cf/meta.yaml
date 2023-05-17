@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/395105310049826442/934c66d926fe447eb2196052f16b42cf/artifacts
+end_time: 1684331657059
+entry_point_name: ''
+experiment_id: '395105310049826442'
+lifecycle_stage: active
+run_id: 934c66d926fe447eb2196052f16b42cf
+run_name: placid-ox-80
+run_uuid: 934c66d926fe447eb2196052f16b42cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684331650615
+status: 3
+tags: []
+user_id: Amine

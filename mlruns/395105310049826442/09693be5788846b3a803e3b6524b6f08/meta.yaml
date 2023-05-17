@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/395105310049826442/09693be5788846b3a803e3b6524b6f08/artifacts
+end_time: 1684331626362
+entry_point_name: ''
+experiment_id: '395105310049826442'
+lifecycle_stage: active
+run_id: 09693be5788846b3a803e3b6524b6f08
+run_name: placid-snipe-804
+run_uuid: 09693be5788846b3a803e3b6524b6f08
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684331620657
+status: 3
+tags: []
+user_id: Amine

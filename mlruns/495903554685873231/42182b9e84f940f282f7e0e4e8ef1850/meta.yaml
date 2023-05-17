@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/495903554685873231/42182b9e84f940f282f7e0e4e8ef1850/artifacts
+end_time: 1684332355571
+entry_point_name: ''
+experiment_id: '495903554685873231'
+lifecycle_stage: active
+run_id: 42182b9e84f940f282f7e0e4e8ef1850
+run_name: lyrical-gull-590
+run_uuid: 42182b9e84f940f282f7e0e4e8ef1850
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684332355507
+status: 4
+tags: []
+user_id: Amine

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/395105310049826442/655dd5b4b2ef4c3ea5f14f12c6e2963f/artifacts
+end_time: 1684331394719
+entry_point_name: ''
+experiment_id: '395105310049826442'
+lifecycle_stage: active
+run_id: 655dd5b4b2ef4c3ea5f14f12c6e2963f
+run_name: languid-turtle-315
+run_uuid: 655dd5b4b2ef4c3ea5f14f12c6e2963f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684331386447
+status: 3
+tags: []
+user_id: Amine

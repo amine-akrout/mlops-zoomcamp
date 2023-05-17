@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/495903554685873231/215e88ec20c04b13842584a510b42dab/artifacts
+end_time: 1684333301382
+entry_point_name: ''
+experiment_id: '495903554685873231'
+lifecycle_stage: active
+run_id: 215e88ec20c04b13842584a510b42dab
+run_name: bouncy-pug-115
+run_uuid: 215e88ec20c04b13842584a510b42dab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684333301321
+status: 4
+tags: []
+user_id: Amine

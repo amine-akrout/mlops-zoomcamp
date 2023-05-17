@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yomke/Desktop/MOOC/mlops-zoomcamp/hw2/mlruns/0/80ca699ee81443ba9ffbe613249a7cc4/artifacts
+end_time: 1684330459340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 80ca699ee81443ba9ffbe613249a7cc4
+run_name: hilarious-ant-147
+run_uuid: 80ca699ee81443ba9ffbe613249a7cc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1684330425269
+status: 3
+tags: []
+user_id: Amine
