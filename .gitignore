@@ -5,3 +5,7 @@ hw1/data/*.parquet
 
 # hw2
 hw2/data/*.parquet
+
+# mlflow artifacts
+mlruns/*
+mlartifact/*
