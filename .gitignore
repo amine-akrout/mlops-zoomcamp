@@ -1,2 +1,11 @@
 # parquet files
 hw1/data/*.parquet
+.vscode
+
+
+# hw2
+hw2/data/*.parquet
+
+# mlflow artifacts
+mlruns/*
+mlartifacts/*
